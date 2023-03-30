@@ -1,0 +1,80 @@
+* {
+   /* margin: 0;*/
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 12px;
+    padding: 0;
+}
+
+.divInfo {
+    width: 500px;
+    height: 1200px;
+    margin: auto;
+    border: 2px solid rgba(0, 0, 0, 0.308);
+}
+
+.section1 {
+    text-align: center;
+    width: 35%;
+    height: 100%;
+    float: left;
+    background: rgba(41, 41, 233, 0.87);
+    line-height: 30px;
+}
+
+.section1 ul li {
+    list-style: none;
+}
+
+.section2 {
+    width: 60%;
+    height: 50%;
+    float: right;
+    left: 5px;
+    letter-spacing: 1px;
+    line-height: 10px;
+}
+
+.titulo {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.experiencia {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.datosAcademicos {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    line-height: 20px;
+}
+
+.experienciaAcademica {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    line-height: 20px;
+}
+
+.habilidades {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    line-height: 20px;
+}
+
+.idiomas {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    line-height: 20px;
+}
+
+.section2 ul li {
+    list-style: none;
+}
+
+.imagen img {
+    border-radius: 100px;
+    border: 5px solid blue;
+    height: 50%;
+    width: 90%;
+}
